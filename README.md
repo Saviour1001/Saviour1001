@@ -66,9 +66,12 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
     <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img align="left" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+    <p>&nbsp;</p>
     	<img align="left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="left" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<p>&nbsp;</p>
+<br>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
 
