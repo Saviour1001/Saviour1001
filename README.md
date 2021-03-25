@@ -20,7 +20,7 @@
 
 I am a coder who loves to think solutions out of thin air. I enjoy training Deep Learning models. I also have a knack for competitive coding and Open Source.
 
-- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at Saviour1001
+- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at Saviour1001 on Chess.com
 
 ### 🔭 I’m currently working on
 
@@ -74,8 +74,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 <br>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
-
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)]
 
 <!--
 **Saviour1001/Saviour1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
