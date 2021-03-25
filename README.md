@@ -16,8 +16,6 @@
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<br></br>
-
 ### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air. I enjoy training Deep Learning models. I also have a knack for competitive coding and Open Source.
@@ -56,8 +54,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 	<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     	<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-<br>
 
 ### Frameworks and Technologies I am familiar with
 
