@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harsh!
 
-<a href="https://www.linkedin.com/in/harsh-ghodkar/">
+<a href="https://www.linkedin.com/in/harsh-ghodkar/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
@@ -8,11 +8,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/saviour1001">
+<a href="https://www.codechef.com/users/saviour1001" target="_blank">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
 
-<a href="https://9yearoldtechkid.medium.com/">
+<a href="https://9yearoldtechkid.medium.com/" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
