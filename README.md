@@ -75,6 +75,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
 
+![Harsh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saviour1001&theme=blue-green)
+
 <!--
 **Saviour1001/Saviour1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
