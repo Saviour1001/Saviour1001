@@ -24,9 +24,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### 🔭 I’m currently working on
 
-- Flutter, Firebase Project for Google Developer Solution Challenge 2021
+- Enhancing my competitive coding skills
 
-- Exploring Julia and trying to increase its exposure in Competitve Coding
+- Exploring Julia and trying to increase its exposure in Competitve Coding and also developing some Julia packages to increase its functionalities.
 
 - Contributing to projects in Girl Script Summer of Code
 
