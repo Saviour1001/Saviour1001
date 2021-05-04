@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Harsh!
 
 <a href="https://www.linkedin.com/in/harsh-ghodkar/" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img  align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHtl8yGuzVa1sB9u4VBni6R53howTdOHJjA&usqp=CAU" />
 </a>
 
 <a href="mailto:harshghodkar@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
 <a href="https://www.codechef.com/users/saviour1001" target="_blank">
