@@ -38,6 +38,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 - [Image Classification ML Model](https://github.com/Saviour1001/intel-image-classification)
 - [Waste Management Deep Learning Model](https://github.com/Saviour1001/WasteManagement-1)
 - [Exploratory Data Analysis on 35+ years of Videogame Sales](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-)
+- [All Format YouTube Downloader](https://github.com/Saviour1001/Youtube-Downloader)
+- [Meme Posting Website](https://xmeme-letsgo.herokuapp.com/)
 - [VS Code Extension to Find Synonyms](https://github.com/Saviour1001/synonym-finder)
 
 ### My Experiences 🙌
