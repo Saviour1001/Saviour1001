@@ -50,6 +50,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
 
+- Mentor at Let's Grow More Summer of Code 2021. Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
+
 ### Honors & Awards 🏅
 
 - All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
