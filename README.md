@@ -30,6 +30,16 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Contributing to projects in Girl Script Summer of Code
 
+### Projects 🌱
+
+- [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)
+- [Flappy Bird](https://github.com/Saviour1001/Flappy_Bird)
+- [Journey of my Competitive Coding](https://github.com/Saviour1001/Competetive)
+- [Image Classification ML Model](https://github.com/Saviour1001/intel-image-classification)
+- [Waste Management Deep Learning Model](https://github.com/Saviour1001/WasteManagement-1)
+- [Exploratory Data Analysis on 35+ years of Videogame Sales](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-)
+- [VS Code Extension to Find Synonyms](https://github.com/Saviour1001/synonym-finder)
+
 ### My Experiences 🙌
 
 - Mentee at Script Winter of Code 2020. Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
