@@ -28,7 +28,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Exploring Julia and trying to increase its exposure in Competitve Coding and also developing some Julia packages to increase its functionalities.
 
-- Contributing to projects in Girl Script Summer of Code
+- Mentoring students in open source in the event [Let's Grow More Summer of Code](https://letsgrowmore.in/soc/) and [DevIncept Contributor Program](https://devincept.tech/)
 
 ### Projects 🌱
 
