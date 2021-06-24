@@ -32,14 +32,15 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### Projects 🌱
 
-- [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)
-- [Flappy Bird](https://github.com/Saviour1001/Flappy_Bird)
+- [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)		
 - [Journey of my Competitive Coding](https://github.com/Saviour1001/Competetive)
+- [Chandler(FRIENDS) Chatbot](https://github.com/Saviour1001/Chandler-Bot)
 - [Image Classification ML Model](https://github.com/Saviour1001/intel-image-classification)
 - [Waste Management Deep Learning Model](https://github.com/Saviour1001/WasteManagement-1)
 - [Exploratory Data Analysis on 35+ years of Videogame Sales](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-)
 - [All Format YouTube Downloader](https://github.com/Saviour1001/Youtube-Downloader)
 - [Meme Posting Website](https://xmeme-letsgo.herokuapp.com/)
+- [Flappy Bird](https://github.com/Saviour1001/Flappy_Bird)
 - [VS Code Extension to Find Synonyms](https://github.com/Saviour1001/synonym-finder)
 
 ### My Experiences 🙌
