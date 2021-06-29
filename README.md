@@ -26,7 +26,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Enhancing my competitive coding skills
 
-- Exploring Julia and trying to increase its exposure in Competitve Coding and also developing some Julia packages to increase its functionalities.
+- Exploring [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) and contributing towards it. 
 
 - Mentoring students in open source in the event [Let's Grow More Summer of Code](https://letsgrowmore.in/soc/) and [DevIncept Contributor Program](https://devincept.tech/)
 
@@ -45,19 +45,24 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### My Experiences 🙌
 
-- Mentee at Script Winter of Code 2020. Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
+- Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. 
 
-- Extern at Crio Winter of Doing. This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as FastAPI, hosting an EC2 Instance via AWS etc while creating a project. Even made a meme posting [website](https://xmeme-letsgo.herokuapp.com/) from scratch.
-
-- Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+- Mentor at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.
 
 - Mentor at Let's Grow More Summer of Code 2021. Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
 
+- Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+
+- Extern at Crio Winter of Doing. This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as FastAPI, hosting an EC2 Instance via AWS etc while creating a project. Even made a meme posting [website](https://xmeme-letsgo.herokuapp.com/) from scratch.
+
+- Mentee at Script Winter of Code 2020. Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
+
 ### Honors & Awards 🏅
 
-- All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
-- Selected as a scholarship recipient for Education Outreach program by GirlScript
+- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
 - Global Rank 5755 in Google Hash Code 2021
+- Selected as a scholarship recipient for Education Outreach program by GirlScript
+- All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
 
 ### Languages I use to talk to computer 🤔
 
