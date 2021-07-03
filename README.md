@@ -20,7 +20,7 @@
 
 I am a coder who loves to think solutions out of thin air. I enjoy training Deep Learning models. I also have a knack for competitive coding and Open Source.
 
-- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at Saviour1001 on Chess.com
+- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at [Saviour1001](https://www.chess.com/member/saviour1001).
 
 ### 🔭 I’m currently working on
 
