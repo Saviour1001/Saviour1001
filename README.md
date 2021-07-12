@@ -47,7 +47,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. 
 
-- Mentor at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language.
+- Mentor at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
 
 - Mentor at Let's Grow More Summer of Code 2021. Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
 
