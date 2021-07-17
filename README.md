@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harsh!
 
-![](https://komarev.com/ghpvc/?username=Saviour1001&style=flat-square)
+
 
 <a href="https://www.linkedin.com/in/harsh-ghodkar/" target="_blank">
   <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
@@ -17,6 +17,8 @@
 <a href="https://9yearoldtechkid.medium.com/" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=Saviour1001&style=flat-square)
 
 ### About Me 🚀
 
