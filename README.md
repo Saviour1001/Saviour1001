@@ -96,6 +96,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ![Harsh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saviour1001&theme=blue-green)
 
+![](https://komarev.com/ghpvc/?username=Saviour1001&style=flat-square)
+
 <!--
 **Saviour1001/Saviour1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
