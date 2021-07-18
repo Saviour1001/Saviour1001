@@ -20,7 +20,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Saviour1001&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=Saviour1001&style=flat-square) -->
 
 ### About Me 🚀
 
