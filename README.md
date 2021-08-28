@@ -34,7 +34,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Exploring [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) and contributing towards it. 
 
-- Mentoring students in open source in the event [Let's Grow More Summer of Code](https://letsgrowmore.in/soc/) and [DevIncept Contributor Program](https://devincept.tech/)
+- Mentoring students at the event [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) and introducing them to the amazing world of Open Source. 
 
 ### Projects 🌱
 
@@ -51,7 +51,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### My Experiences 🙌
 
-- Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. 
+- Mentor at [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/). GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education.
+
+- Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing, testing the features that get added to the main branch. 
 
 - Mentor at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
 
@@ -65,6 +67,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### Honors & Awards 🏅
 
+- ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
 - Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
 - Global Rank 5755 in Google Hash Code 2021
 - Selected as a scholarship recipient for Education Outreach program by GirlScript
