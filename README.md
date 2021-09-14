@@ -38,6 +38,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### Projects 🌱
 
+- [Solana Wedding](https://solanashadii.netlify.app/)
 - [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)		
 - [Journey of my Competitive Coding](https://github.com/Saviour1001/Competetive)
 - [Chandler(FRIENDS) Chatbot](https://github.com/Saviour1001/Chandler-Bot)
