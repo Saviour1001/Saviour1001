@@ -68,7 +68,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### Honors & Awards 🏅
 
+- Global Rank 7575 at Facebook HackerCup 2021
 - ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
+- Global Rank 88 in CodeChef June Long Challenge
 - Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
 - Global Rank 5755 in Google Hash Code 2021
 - Selected as a scholarship recipient for Education Outreach program by GirlScript
