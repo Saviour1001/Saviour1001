@@ -32,7 +32,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 - Enhancing my competitive coding skills
 
-- Exploring [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) and contributing towards it. 
+- Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
 
 - Mentoring students at the event [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) and introducing them to the amazing world of Open Source. 
 
@@ -52,7 +52,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### My Experiences 🙌
 
-- Mentor at [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/). GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education.
+- Supervisor at [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/). GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education.
 
 - Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing, testing the features that get added to the main branch. 
 
