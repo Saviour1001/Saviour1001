@@ -82,6 +82,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 - Selected as a scholarship recipient for Education Outreach program by GirlScript
 - All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
 
+If you like my work I am accepting BTC Donations 😄: 
+#### Wallet Address: bc1qajxqxaz2cu3gnze2gphzgne6akc97lgkcmfv6t
+
 ### Languages I use to talk to computer 🤔
 
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
