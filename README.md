@@ -44,6 +44,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy training Deep
 
 ### Projects 🌱
 
+- [Blockchain based API MarketPlace](https://blockchain-api-marketplace.netlify.app/)
 - [Solana Wedding](https://solanashadii.netlify.app/)
 - [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)		
 - [Journey of my Competitive Coding](https://github.com/Saviour1001/Competetive)
