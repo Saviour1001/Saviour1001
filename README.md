@@ -83,8 +83,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy about learnin
 - Selected as a scholarship recipient for Education Outreach program by GirlScript
 - All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
 
-If you like my work I am accepting BTC Donations 😄: 
-#### Wallet Address: bc1qajxqxaz2cu3gnze2gphzgne6akc97lgkcmfv6t
+If you like my work 😄: 
+#### BTC Wallet Address: bc1qajxqxaz2cu3gnze2gphzgne6akc97lgkcmfv6t
 
 ### Languages I use to talk to computer 🤔
 
