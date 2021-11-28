@@ -44,18 +44,25 @@ I am a coder who loves to think solutions out of thin air. I enjoy about learnin
 
 ### Projects 🌱
 
-- [Blockchain based API MarketPlace](https://blockchain-api-marketplace.netlify.app/)
-- [Solana Wedding](https://solanashadii.netlify.app/)
-- [Engage for Change](https://github.com/Saviour1001/Engage_For_Change)		
-- [Journey of my Competitive Coding](https://github.com/Saviour1001/Competetive)
-- [Chandler(FRIENDS) Chatbot](https://github.com/Saviour1001/Chandler-Bot)
-- [Scenery Detection Model](https://github.com/Saviour1001/intel-image-classification)
-- [Waste Management Deep Learning Model](https://github.com/Saviour1001/WasteManagement-1)
-- [Exploratory Data Analysis on 35+ years of Videogame Sales](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-)
-- [All Format YouTube Downloader](https://github.com/Saviour1001/Youtube-Downloader)
-- [Meme Posting Website](https://xmeme-letsgo.herokuapp.com/)
-- [Flappy Bird](https://github.com/Saviour1001/Flappy_Bird)
-- [VS Code Extension to Find Synonyms](https://github.com/Saviour1001/synonym-finder)
+| Name | Description | Source Code | Deployed at |
+|:----:|:------------|:----:|:-----------:|
+| NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet)
+| Blockchain API MarketPlace| Our Marketplace allows you to view all the public APIs which are available and also allows you to list your own APIs.This database of APIs is created in order to help blockchain developers improve their efficiency. It provides a one-stop place for managing all your hassles. | [Repo](https://github.com/Hack-CBS-Tech-Savvy/Market-Place) | [Netlify](https://blockchain-api-marketplace.netlify.app/) 
+| Solana Wedding | OnChain Wedding Registry - Certify your wedding on Solana Ecosystem, it also generates a fancy certificate for the same. | [Repo](https://github.com/ankitzm/solana-wedding) | [Netlify](https://solanashadii.netlify.app/)
+| Engage for Change | This app was made in order to chanelize the energy of youth to fill the void of the society. Aimed to build a platform where people could connect and post about social work and help in uplift the community. This idea was inspired during the harsh times of Covid 19 pandemic. Its our responsibility to grow the society from where it is now to a better future. | [Repo](https://github.com/Saviour1001/Engage_For_Change) | [APK](https://drive.google.com/file/d/1ndg_tEaMi5iHMiWUI8x9LV8xfPe44v-S/view)
+| Chandler Chatbot | Chandler Bing is my favourite character from the famous sitcom F.R.I.E.N.D.S and thus this chatbot is a fun little side project to enjoy and leverage the power of machine learning for the purpose of entertainment.Our goal is to make a bot which would respond to situations/texts in a way that Chandler would. For that I used a dataset which consisted of the transcribed scripts of the complete show F.R.I.E.N.D.S. | [Repo](https://github.com/Saviour1001/Chandler-Bot) | [Hugging Face](https://huggingface.co/Saviour/ChandlerBot)
+| Scenery Detection Model | Multiclass classification dataset analysed by convolutional neural network.Here we are dealing with a dataset of good quality images of thing like buildings and glacier. The goal is to create a deep learning model which will be able to classify these images with a considerate accuracy. We will try to approach the problem by setting up a model which will consist of multiple layers and activation functions. | [Repo](https://github.com/Saviour1001/intel-image-classification) | |
+| Waste Management Deep Learning Model | Classifying products as Recyclable or Disposable/Organic Generating a signal/alert telling the result in a visual format. | [Repo](https://github.com/Saviour1001/WasteManagement-1) | |
+| EDA on VideoGame Sales | Explored the sales of Video games of various consoles dating from 1980 - 2016 and analysed the nature of different spectrums such as popularity of Genre, Country and Gaming Platforms over the time period. | [Repo](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-) | |
+| All Format Youtube Downloader | Python GUI made using Tkinter. The features of selecting the destination folder and downloading the video in different formats is available. | [Repo](https://github.com/Saviour1001/Youtube-Downloader) | |
+| Meme Posting Website | Full Stack website with CRUD operations for posting Memes | [Repo](https://github.com/Saviour1001/fastapi-frontend-xmeme) | [Heroku](https://xmeme-letsgo.herokuapp.com/) | 
+| Flappy Bird | Flappy Bird Clone created in Flutter | [Repo](https://github.com/Saviour1001/Flappy_Bird) | | 
+| Synonym Finder | VS Code Extension to find synonyms | [Repo](https://github.com/Saviour1001/synonym-finder) | | 
+		
+		
+- [Journey of my Competitive Coding so far](https://github.com/Saviour1001/Competetive)
+
+
 
 ### My Experiences 🙌
 
