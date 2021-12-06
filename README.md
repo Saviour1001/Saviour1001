@@ -32,7 +32,7 @@
 
 I am a coder who loves to think solutions out of thin air. I enjoy about learning and working on Blockchain technology.I also have a knack for competitive coding and Open Source. 
 
-- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at [Saviour1001](https://www.chess.com/member/saviour1001).
+- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at <a href="https://www.chess.com/member/saviour1001" target="_blank">Saviour1001</a>.
 
 ### 🔭 I’m currently working on
 
