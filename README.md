@@ -40,7 +40,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy about learnin
 
 - Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
 
-- Mentoring students at the event [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) and introducing them to the amazing world of Open Source. 
+- Participating in various Hackathons to BUIDL dApps.
 
 ### Projects 🌱
 
