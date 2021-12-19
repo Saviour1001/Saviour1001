@@ -118,6 +118,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy about learnin
     <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="left" alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
     <img align="left" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+    <img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+    <img align="left" alt="Polygon" width="70" height="33"  src="https://www.esports.net/wp-content/uploads/2021/10/polygon-cryptogaming.jpg"/>
     <img align="left" alt="Solana" width="70" height="33"  src="https://images.financialexpress.com/2021/09/solana.png"/>
 <p>&nbsp;</p>
 
