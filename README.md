@@ -46,7 +46,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy about learnin
 
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
-| CheckMatic | A dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) |
+| CheckMatic | A Chess dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) |
 | NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet)
 | Blockchain API MarketPlace| Our Marketplace allows you to view all the public APIs which are available and also allows you to list your own APIs.This database of APIs is created in order to help blockchain developers improve their efficiency. It provides a one-stop place for managing all your hassles. | [Repo](https://github.com/Hack-CBS-Tech-Savvy/Market-Place) | [Netlify](https://blockchain-api-marketplace.netlify.app/) 
 | Solana Wedding | OnChain Wedding Registry - Certify your wedding on Solana Ecosystem, it also generates a fancy certificate for the same. | [Repo](https://github.com/ankitzm/solana-wedding) | [Netlify](https://solanashadii.netlify.app/)
