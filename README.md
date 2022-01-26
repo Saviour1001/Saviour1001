@@ -36,6 +36,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### 🔭 I’m currently working on
 
+- Working as an MLH Fellow on [Solana Labs](https://github.com/solana-labs)
+
 - Enhancing my competitive coding skills
 
 - Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
@@ -66,6 +68,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 
 ### My Experiences 🙌
+
+- Major League Hacking Fellow, working on [Solana Labs](https://github.com/solana-labs)
 
 - Program Manager at GirlScript Summer of Code 22. Managing all the teams and pulling off the complete 3 month long Open Source Event. 
 
