@@ -38,6 +38,8 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 - Working as an MLH Fellow on [Solana Labs](https://github.com/solana-labs)
 
+- Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
+
 - Enhancing my competitive coding skills
 
 - Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
