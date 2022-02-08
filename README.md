@@ -48,6 +48,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
+| Embark, Web3 begins here | A learn to Earn platform where people can subscribe to a weekly newsletter, also understand Blockchain, mint their own NFTs with a user Friendly UI. The goal is to be the bridge of bringing the non-crypto people in this rollercoaster. | [Repo](https://github.com/EthGlobal2022/interface) | [Vercel](https://embarkethglobal2022.vercel.app/) 
 | Stake Overflow | Decentralized Stack Overflow, has the features of OnChain Data, Privacy, Crypto Donation to the helpers | [Repo](https://github.com/Saviour1001/StakeOverflow) | [Netlify](https://ava-stakeoverflow.netlify.app/) |
 | CheckMatic | A Chess dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) |
 | NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet)
