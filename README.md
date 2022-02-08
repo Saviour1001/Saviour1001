@@ -36,7 +36,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### 🔭 I’m currently working on
 
-- Working as an MLH Fellow on [Solana Labs](https://github.com/solana-labs)
+- Working as an MLH Fellow under Solana Labs on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 
 - Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
 
@@ -73,7 +73,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### My Experiences 🙌
 
-- Major League Hacking Fellow, working on [Solana Labs](https://github.com/solana-labs)
+- Major League Hacking Spring Fellow 2022, working on [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 
 - Program Manager at GirlScript Summer of Code 22. Managing all the teams and pulling off the complete 3 month long Open Source Event. 
 
