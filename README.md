@@ -73,9 +73,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### My Experiences 🙌
 
-- Major League Hacking Spring Fellow 2022, working on [Solana Program Library](https://github.com/solana-labs/solana-program-library)
+- Major League Hacking Spring Fellow 2022, working on [Solana Program Library](https://github.com/solana-labs/solana-program-library). Worked on porting the existing Memo SPL program to Anchor Framework. Fixed issues in the SPL Repository. Adding new bindings in the [Solana Web3JS](https://github.com/solana-labs/solana-web3.js). 
 
-- Program Manager at GirlScript Summer of Code 22. Managing all the teams and pulling off the complete 3 month long Open Source Event. 
+- Program Manager at [GirlScript Summer of Code 22](http://gssoc.girlscript.tech/). Managing all the teams and pulling off the complete 3 month long Open Source Event. The event caters to 8000+ people from all over the world. Majority of the participants are students who are starting their open source journey with this event. As a manager I handled the complete organizing team and partnered up with multiple companies such as [Moralis](https://moralis.io/) to make the event a success !! 
 
 - Supervisor at [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/). GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. I will be handling and supervising all the activities done by mentors and contributors done on the [GWOC Repository](https://github.com/girlscript/winter-of-contributing) falling under the C/CPP domain.  
 
