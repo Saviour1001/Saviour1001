@@ -36,11 +36,11 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### 🔭 I’m currently working on
 
+- Building [Blocktrain](https://blocktrain.info/)
+
 - Working as an MLH Fellow under Solana Labs on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 
 - Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
-
-- Enhancing my competitive coding skills
 
 - Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
 
