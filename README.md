@@ -38,24 +38,23 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 - Building [Blocktrain](https://blocktrain.info/)
 
-- Working as an MLH Fellow under Solana Labs on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library)
-
 - Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
-
-- Exploring [Bitcoin Core](https://bitcoincore.org/) and contributing towards it. 
 
 - Participating in various Hackathons to BUIDL dApps.
 
 ### Projects 🌱
 
-| Name | Description | Source Code | Deployed at |
-|:----:|:------------|:----:|:-----------:|
-| Embark, Web3 begins here | A learn to Earn platform where people can subscribe to a weekly newsletter, also understand Blockchain, mint their own NFTs with a user Friendly UI. The goal is to be the bridge of bringing the non-crypto people in this rollercoaster. | [Repo](https://github.com/EthGlobal2022/interface) | [Vercel](https://embarkethglobal2022.vercel.app/) 
-| Stake Overflow | Decentralized Stack Overflow, has the features of OnChain Data, Privacy, Crypto Donation to the helpers | [Repo](https://github.com/Saviour1001/StakeOverflow) | [Netlify](https://ava-stakeoverflow.netlify.app/) |
-| CheckMatic | A Chess dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) |
-| NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet)
+<details>
+	<summary>List of all projects I have built for Hackathons or Learning Purpose</summary>
+
+| Name | Description | Source Code | Deployed at | Built at |
+|:----:|:------------|:----:|:-----------:|:----:|
+| Embark, Web3 begins here | A learn to Earn platform where people can subscribe to a weekly newsletter, also understand Blockchain, mint their own NFTs with a user Friendly UI. The goal is to be the bridge of bringing the non-crypto people in this rollercoaster. | [Repo](https://github.com/EthGlobal2022/interface) | [Vercel](https://embarkethglobal2022.vercel.app/) | 🏅[Road to Web3](https://showcase.ethglobal.com/roadtoweb3/embark)
+| Stake Overflow | Decentralized Stack Overflow, has the features of OnChain Data, Privacy, Crypto Donation to the helpers | [Repo](https://github.com/Saviour1001/StakeOverflow) | [Netlify](https://ava-stakeoverflow.netlify.app/) | 🏅[Quiswe](https://devfolio.co/submissions/destackoverflow-44e2)
+| CheckMatic | A Chess dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) | 🏅[Buidl it](https://devfolio.co/submissions/checkmatic-6ca5)
+| NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet) | 🏅[Chainlink Fall Hackathon 2021](https://devpost.com/software/nft-emporium)
 | Blockchain API MarketPlace| Our Marketplace allows you to view all the public APIs which are available and also allows you to list your own APIs.This database of APIs is created in order to help blockchain developers improve their efficiency. It provides a one-stop place for managing all your hassles. | [Repo](https://github.com/Hack-CBS-Tech-Savvy/Market-Place) | [Netlify](https://blockchain-api-marketplace.netlify.app/) 
-| Solana Wedding | OnChain Wedding Registry - Certify your wedding on Solana Ecosystem, it also generates a fancy certificate for the same. | [Repo](https://github.com/ankitzm/solana-wedding) | [Netlify](https://solanashadii.netlify.app/)
+| Solana Wedding | OnChain Wedding Registry - Certify your wedding on Solana Ecosystem, it also generates a fancy certificate for the same. | [Repo](https://github.com/ankitzm/solana-wedding) | [Netlify](https://solanashadii.netlify.app/) | [Building out loud](https://devfolio.co/projects/solana-shadi-558c)
 | Engage for Change | This app was made in order to chanelize the energy of youth to fill the void of the society. Aimed to build a platform where people could connect and post about social work and help in uplift the community. This idea was inspired during the harsh times of Covid 19 pandemic. Its our responsibility to grow the society from where it is now to a better future. | [Repo](https://github.com/Saviour1001/Engage_For_Change) | [APK](https://drive.google.com/file/d/1ndg_tEaMi5iHMiWUI8x9LV8xfPe44v-S/view)
 | Chandler Chatbot | Chandler Bing is my favourite character from the famous sitcom F.R.I.E.N.D.S and thus this chatbot is a fun little side project to enjoy and leverage the power of machine learning for the purpose of entertainment.Our goal is to make a bot which would respond to situations/texts in a way that Chandler would. For that I used a dataset which consisted of the transcribed scripts of the complete show F.R.I.E.N.D.S. | [Repo](https://github.com/Saviour1001/Chandler-Bot) | [Hugging Face](https://huggingface.co/Saviour/ChandlerBot)
 | Scenery Detection Model | Multiclass classification dataset analysed by convolutional neural network.Here we are dealing with a dataset of good quality images of thing like buildings and glacier. The goal is to create a deep learning model which will be able to classify these images with a considerate accuracy. We will try to approach the problem by setting up a model which will consist of multiple layers and activation functions. | [Repo](https://github.com/Saviour1001/intel-image-classification) | |
@@ -69,27 +68,108 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 		
 - [Journey of my Competitive Coding so far](https://github.com/Saviour1001/Competetive)
 
-
+</details>
 
 ### My Experiences 🙌
 
-- Major League Hacking Spring Fellow 2022, working on [Solana Program Library](https://github.com/solana-labs/solana-program-library). Worked on porting the existing Memo SPL program to Anchor Framework. Fixed issues in the SPL Repository. Adding new bindings in the [Solana Web3JS](https://github.com/solana-labs/solana-web3.js). 
+<details>
+<summary>Major League Hacking Spring Fellow 2022 at Solana Labs 🦀</summary>
+<br>
 
-- Program Manager at [GirlScript Summer of Code 22](http://gssoc.girlscript.tech/). Managing all the teams and pulling off the complete 3 month long Open Source Event. The event caters to 8000+ people from all over the world. Majority of the participants are students who are starting their open source journey with this event. As a manager I handled the complete organizing team and partnered up with multiple companies such as [Moralis](https://moralis.io/) to make the event a success !! 
+&emsp;&emsp;Was mentored under [Jon Cinque](https://github.com/joncinque), [Wei He](https://github.com/wei) and [Gage Bachik](https://github.com/GageBachik). Worked on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library), fixed issues on the repository. Worked on porting SPL programs to Anchor framework. 
+	<details>
+	<summary>Issue: Added a checker to check if the recipient address of a token transfer is owned by System Program</summary>
+	<br>
+		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3085)
+		<br>
+		&emsp;&emsp;Spl-token transfer didn't check if the recipient address was actually owned by System Program or not. This lead to a lot of loss when 			people sent a lot of funds to a wallet owned by a token. Added a check along with a flag to go past the check. 
+	</details>
+	<details>
+	<summary>Issue: Porting the existing Memo program to Anchor Framework</summary>
+	<br>
+		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3024)
+		<br>
+		&emsp;&emsp;The Memo program in SPL is working and written in Vanilla Rust as of now. I got it recreated in Anchor which is a Rust framework. Added 		the same tests which were there for a previous program and made the PR.
+	</details>
+	<details>
+	<summary>Issue: Categorized the dependancies of token/js</summary>
+	<br>
+		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2881)
+		<br>
+		&emsp;&emsp;The dependancies in the package.json file need to be corrected as per the requirement on the dev side.  
+	</details>
+	<details>
+	<summary>Issue: Documentation error in token/js</summary>
+	<br>
+		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2879)
+		<br>
+		&emsp;&emsp;There was an error in the documentation of the Readme of token/js regarding a subdirectory.  
+	</details>
+	
+</details>
 
-- Supervisor at [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/). GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. I will be handling and supervising all the activities done by mentors and contributors done on the [GWOC Repository](https://github.com/girlscript/winter-of-contributing) falling under the C/CPP domain.  
+<details>
+<summary>Program Manager at GirlScript Summer of Code 22 🧑‍💻</summary>
+<br>
 
-- Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I have been working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing the features focusing GUIX and am also working on improvising the fuzz tests. I have also been exploring the Onion Service and how to run Bitcoin Core on the Tor network, which helps in getting another layer of security to all the nodes. Here is the [article](https://github.com/Saviour1001/docs/blob/main/Articles/how_to_use_bitcoin_core_onion_service.md) where I have combined all the present documentation regarding the same and created a quick and easy guide to get Bitcoin Core running on Tor. 
+&emsp;&emsp;Managing [GSSoC](http://gssoc.girlscript.tech/). Managing all the teams and pulling off the complete 3 month long Open Source Event. The event caters to 8000+ people from all over the world. Majority of the participants are students who are starting their open source journey with this event. As a manager I handled the complete organizing team and partnered up with multiple companies such as [Moralis](https://moralis.io/) to make the event a success !! 	
+</details>
 
-- Mentor at [DevIncept Contributor Program](https://devincept.tech/join-us.html). DevIncept Contributor Program is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
+<details>
+<summary>Supervisor at GirlScript Winter of Contributing 21 🧑‍💻</summary>
+<br>
 
-- Mentor at Let's Grow More Summer of Code 2021. Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
+&emsp;&emsp;[GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. I will be handling and supervising all the activities done by mentors and contributors done on the [GWOC Repository](https://github.com/girlscript/winter-of-contributing) falling under the C/CPP domain.  
+	
+</details>
 
-- Contributor at GirlScript Summer of Code 2021. Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+<details>
+<summary>Student Contributor at Bitcoin Core under Summer of Bitcoin 21 ₿ </summary>
+<br>
 
-- Extern at Crio Winter of Doing. This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as FastAPI, hosting an EC2 Instance via AWS etc while creating a project. Even made a meme posting [website](https://xmeme-letsgo.herokuapp.com/) from scratch.
+&emsp;&emsp;Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I was working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing the features focusing GUIX and am also working on improvising the fuzz tests. I have also been exploring the Onion Service and how to run Bitcoin Core on the Tor network, which helps in getting another layer of security to all the nodes. Here is the [article](https://github.com/Saviour1001/docs/blob/main/Articles/how_to_use_bitcoin_core_onion_service.md) where I have combined all the present documentation regarding the same and created a quick and easy guide to get Bitcoin Core running on Tor. 
+	
+</details>
 
-- Mentee at Script Winter of Code 2020. Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
+<details>
+<summary> Mentor at DevIncept Contributor Program 21 🧑‍💻</summary>
+<br>
+
+&emsp;&emsp;[DevIncept Contributor Program](https://devincept.tech/join-us.html) is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
+	
+</details>
+
+<details>
+<summary> Mentor at Let's Grow More Summer of Code 21🧑‍💻</summary>
+<br>
+
+&emsp;&emsp;Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
+	
+</details>
+
+<details>
+<summary> Contributor at GirlScript Summer of Code 21 🧑‍💻</summary>
+<br>
+
+&emsp;&emsp;Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
+	
+</details>
+
+<details>
+<summary> Extern at Crio Winter of Doing 21 🧑‍💻</summary>
+<br>
+
+&emsp;&emsp;This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as FastAPI, hosting an EC2 Instance via AWS etc while creating a project. Even made a meme posting [website](https://xmeme-letsgo.herokuapp.com/) from scratch.
+	
+</details>
+
+<details>
+<summary> Mentee at Script Winter of Code 20 🧑‍💻</summary>
+<br>
+
+&emsp;&emsp;Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
+	
+</details>
 
 ### Honors & Awards 🏅
 
