@@ -6,6 +6,10 @@
   <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 </a>
 
+<a href="https://twitter.com/harsh_ghodkar" target="_blank">
+  <img  align="left" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
+</a>
+
 <a href="mailto:harshghodkar@gmail.com">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
