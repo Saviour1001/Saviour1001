@@ -177,6 +177,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### Honors & Awards 🏅
 
+- Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001)
 - Global Rank 7575 at Facebook HackerCup 2021
 - ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
 - Global Rank 88 in CodeChef June Long Challenge
