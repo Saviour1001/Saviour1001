@@ -42,7 +42,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 - Building [Blocktrain](https://blocktrain.info/)
 
-- Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
+
 
 - Participating in various Hackathons to BUIDL dApps.
 
@@ -75,6 +75,16 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 </details>
 
 ### My Experiences 🙌
+
+
+
+<details>
+<summary>Developer Relations Engineer at Web3Auth 🧑‍💻</summary>
+<br>
+
+As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community. 
+</details>
+
 
 <details>
 <summary>Major League Hacking Spring Fellow 2022 at Solana Labs 🦀</summary>
