@@ -38,13 +38,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 - ⚡ Fun fact: I love playing chess. So if you up for a game send me request at <a href="https://www.chess.com/member/saviour1001" target="_blank">Saviour1001</a>.
 
-### 🔭 I’m currently working on
 
-- Building [Blocktrain](https://blocktrain.info/)
-
-
-
-- Participating in various Hackathons to BUIDL dApps.
 
 ### Projects 🌱
 
