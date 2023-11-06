@@ -14,17 +14,8 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-<a href="https://www.codechef.com/users/saviour1001" target="_blank">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a>
+[Blogs](https://harshghodkar.substack.com/)
 
-<a href="https://leetcode.com/harshghodkar/" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>
-
-<a href="https://9yearoldtechkid.medium.com/" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
 
 
 
