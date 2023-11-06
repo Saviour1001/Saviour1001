@@ -70,13 +70,25 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### My Experiences 🙌
 
-
-
 <details>
-<summary>Developer Relations Engineer at Web3Auth 🧑‍💻</summary>
+<summary>Solana Tech Lead at Calyptus  </summary>
 <br>
 
-As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community. 
+I developed the entire comprehensive Solana Curriculum for [Calyptus](https://calyptus.co/), led the development of Solana-based projects for immersive learning, and collaborated with various firms to create an extensive Solana course.
+</details>
+
+<details>
+<summary>Senior Technical Writer at Swisstronik 🧑‍💻</summary>
+<br>
+
+In this role at [Swisstronik](https://swisstronik.com/), I composed weekly newsletters, conducted research on cryptocurrency developments, and wrote technical blogs to make complex cryptocurrency information easily understandable for our audience.
+</details>
+
+<details>
+<summary>Developer Relations Engineer at Web3Auth🧑‍💻</summary>
+<br>
+
+As a Developer Relations Engineer at [Web3Auth](https://web3auth.io/), I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community. 
 </details>
 
 
