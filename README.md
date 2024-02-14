@@ -62,6 +62,14 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 ### My Experiences 🙌
 
 <details>
+<summary>Developer Relations Engineer at Gateway Protocol   </summary>
+<br>
+
+Bringing Data Sovereignty to you via [Gateway](https://mygateway.xyz/)
+</details>
+
+
+<details>
 <summary>Solana Tech Lead at Calyptus  </summary>
 <br>
 
