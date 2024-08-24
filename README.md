@@ -30,35 +30,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 - ⚡ Fun fact: I love playing chess. So if you up for a game send me request at <a href="https://www.chess.com/member/saviour1001" target="_blank">Saviour1001</a>.
 
 
-
-### Projects 🌱
-
-<details>
-	<summary>List of all projects I have built for Hackathons or Learning Purpose</summary>
-
-| Name | Description | Source Code | Deployed at | Built at |
-|:----:|:------------|:----:|:-----------:|:----:|
-| Embark, Web3 begins here | A learn to Earn platform where people can subscribe to a weekly newsletter, also understand Blockchain, mint their own NFTs with a user Friendly UI. The goal is to be the bridge of bringing the non-crypto people in this rollercoaster. | [Repo](https://github.com/EthGlobal2022/interface) | [Vercel](https://embarkethglobal2022.vercel.app/) | 🏅[Road to Web3](https://showcase.ethglobal.com/roadtoweb3/embark)
-| Stake Overflow | Decentralized Stack Overflow, has the features of OnChain Data, Privacy, Crypto Donation to the helpers | [Repo](https://github.com/Saviour1001/StakeOverflow) | [Netlify](https://ava-stakeoverflow.netlify.app/) | 🏅[Quiswe](https://devfolio.co/submissions/destackoverflow-44e2)
-| CheckMatic | A Chess dApp which allows users to challenge their opponents and get Crypto prizes for winning the chess match. | [Repo](https://github.com/CheckMatic/draft-deploy) | [GitHub Pages](https://checkmatic.github.io/draft-deploy/#/quickstart) | 🏅[Buidl it](https://devfolio.co/submissions/checkmatic-6ca5)
-| NFT Emporium | Lightning NFT Minter, one place stop to mint NFTs on multiple blockchain ecosystems | [Repo](https://github.com/NFT-Cryptonaut/NFT-Emporium) | [GitHub Pages](https://nft-cryptonaut.github.io/NFT-Emporium/#/wallet) | 🏅[Chainlink Fall Hackathon 2021](https://devpost.com/software/nft-emporium)
-| Blockchain API MarketPlace| Our Marketplace allows you to view all the public APIs which are available and also allows you to list your own APIs.This database of APIs is created in order to help blockchain developers improve their efficiency. It provides a one-stop place for managing all your hassles. | [Repo](https://github.com/Hack-CBS-Tech-Savvy/Market-Place) | [Netlify](https://blockchain-api-marketplace.netlify.app/) 
-| Solana Wedding | OnChain Wedding Registry - Certify your wedding on Solana Ecosystem, it also generates a fancy certificate for the same. | [Repo](https://github.com/ankitzm/solana-wedding) | [Netlify](https://solanashadii.netlify.app/) | [Building out loud](https://devfolio.co/projects/solana-shadi-558c)
-| Engage for Change | This app was made in order to chanelize the energy of youth to fill the void of the society. Aimed to build a platform where people could connect and post about social work and help in uplift the community. This idea was inspired during the harsh times of Covid 19 pandemic. Its our responsibility to grow the society from where it is now to a better future. | [Repo](https://github.com/Saviour1001/Engage_For_Change) | [APK](https://drive.google.com/file/d/1ndg_tEaMi5iHMiWUI8x9LV8xfPe44v-S/view)
-| Chandler Chatbot | Chandler Bing is my favourite character from the famous sitcom F.R.I.E.N.D.S and thus this chatbot is a fun little side project to enjoy and leverage the power of machine learning for the purpose of entertainment.Our goal is to make a bot which would respond to situations/texts in a way that Chandler would. For that I used a dataset which consisted of the transcribed scripts of the complete show F.R.I.E.N.D.S. | [Repo](https://github.com/Saviour1001/Chandler-Bot) | [Hugging Face](https://huggingface.co/Saviour/ChandlerBot)
-| Scenery Detection Model | Multiclass classification dataset analysed by convolutional neural network.Here we are dealing with a dataset of good quality images of thing like buildings and glacier. The goal is to create a deep learning model which will be able to classify these images with a considerate accuracy. We will try to approach the problem by setting up a model which will consist of multiple layers and activation functions. | [Repo](https://github.com/Saviour1001/intel-image-classification) | |
-| Waste Management Deep Learning Model | Classifying products as Recyclable or Disposable/Organic Generating a signal/alert telling the result in a visual format. | [Repo](https://github.com/Saviour1001/WasteManagement-1) | |
-| EDA on VideoGame Sales | Explored the sales of Video games of various consoles dating from 1980 - 2016 and analysed the nature of different spectrums such as popularity of Genre, Country and Gaming Platforms over the time period. | [Repo](https://github.com/Saviour1001/Exploratory-Data-Analysis-Video-Game-Sales-) | |
-| All Format Youtube Downloader | Python GUI made using Tkinter. The features of selecting the destination folder and downloading the video in different formats is available. | [Repo](https://github.com/Saviour1001/Youtube-Downloader) | |
-| Meme Posting Website | Full Stack website with CRUD operations for posting Memes | [Repo](https://github.com/Saviour1001/fastapi-frontend-xmeme) | [Heroku](https://xmeme-letsgo.herokuapp.com/) | 
-| Flappy Bird | Flappy Bird Clone created in Flutter | [Repo](https://github.com/Saviour1001/Flappy_Bird) | | 
-| Synonym Finder | VS Code Extension to find synonyms | [Repo](https://github.com/Saviour1001/synonym-finder) | | 
-		
-		
-- [Journey of my Competitive Coding so far](https://github.com/Saviour1001/Competetive)
-
-</details>
-
 ### My Experiences 🙌
 
 <details>
@@ -192,7 +163,7 @@ As a Developer Relations Engineer at [Web3Auth](https://web3auth.io/), I had the
 
 ### Honors & Awards 🏅
 
-- Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001)
+- Winner at 30+ Blockchain hackathons at EthGlobal, Devfolio, Devpost
 - Global Rank 7575 at Facebook HackerCup 2021
 - ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
 - Global Rank 88 in CodeChef June Long Challenge
@@ -204,13 +175,12 @@ As a Developer Relations Engineer at [Web3Auth](https://web3auth.io/), I had the
 
 ### Languages I use to talk to computer 🤔
 
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img  align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/220px-Julia_Programming_Language_Logo.svg.png" />
-<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-	
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 <p>&nbsp;</p>
 
